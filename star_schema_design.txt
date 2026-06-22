@@ -1,0 +1,32 @@
+FACT TABLE:
+fact_transactions
+
+Columns:
+- investor_id
+- amfi_code
+- transaction_date
+- amount_inr
+- transaction_type
+
+DIMENSION TABLES:
+
+dim_fund
+- amfi_code
+- scheme_name
+- fund_house
+- category
+- risk_category
+
+dim_investor
+- investor_id
+- age_group
+- gender
+- annual_income_lakh
+- city
+- state
+
+dim_date
+- transaction_date
+- year
+- month
+- quarter
