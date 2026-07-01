@@ -54,8 +54,36 @@ reports/
 - AUM Analysis
 - Sharpe Ratio Analysis
 - Alpha Analysis
-- Beta Analysis
+- Beta Analysis  
+## Power BI Dashboard
 
+This repository also includes an interactive Power BI dashboard for Mutual Fund Analytics.
+
+### Dashboard Pages
+- Industry Overview
+- Fund Performance
+- Investor Analytics
+- SIP & Market Trends
+
+### Dashboard Features
+- AUM Analysis
+- NAV Trend Analysis
+- Risk vs Return Analysis
+- Investor Transaction Analysis
+- SIP Inflow Trends
+- Category-wise Inflow Analysis
+
+### Tools Used
+- Power BI Desktop
+- Python
+- SQL
+- SQLite
+- CSV Dataset
+
+### Dashboard File
+- bluestock_mf_dashboard.pbix
+
+  
 ## Author
 
 Ayush Kumar
